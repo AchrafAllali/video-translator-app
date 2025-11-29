@@ -1,0 +1,80 @@
+/* Animation pour le background */
+@keyframes float {
+  0%, 100% { 
+    transform: translate(0, 0) scale(1); 
+  }
+  25% { 
+    transform: translate(50px, -50px) scale(1.1); 
+  }
+  50% { 
+    transform: translate(-30px, 30px) scale(0.9); 
+  }
+  75% { 
+    transform: translate(40px, 20px) scale(1.05); 
+  }
+}
+
+@keyframes floatIcon {
+  0%, 100% { 
+    transform: translateY(0) rotate(0deg); 
+  }
+  50% { 
+    transform: translateY(-30px) rotate(5deg); 
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes spin {
+  to { 
+    transform: rotate(360deg); 
+  }
+}
+
+.auth-container {
+  min-height: 100vh;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.input-field:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+}
+
+.social-button:hover {
+  border-color: #667eea;
+  background: #f5f3ff;
+}

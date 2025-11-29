@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:03,333
+Bonjour et bienvenue dans cette démonstration de transcription [TRADUIT]
+
+2
+00:00:03,333 --> 00:00:06,666
+audio. Ceci est un texte de démonstration qui [TRADUIT]
+
+3
+00:00:06,666 --> 00:00:10,000
+montre le fonctionnement de l'application de traduction vidéo. [TRADUIT]

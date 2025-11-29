@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:03,333
+Hallo und willkommen bei dieser Audio-Transkriptions-Demonstration. Dies ist ein Demo-Text, der zeigt, wie die Video-Übersetzungsanwendung funktioniert.
+
+2
+00:00:03,333 --> 00:00:06,666
+Hallo und willkommen bei dieser Audio-Transkriptions-Demonstration. Dies ist ein Demo-Text, der zeigt, wie die Video-Übersetzungsanwendung funktioniert.
+
+3
+00:00:06,666 --> 00:00:10,000
+Hallo und willkommen bei dieser Audio-Transkriptions-Demonstration. Dies ist ein Demo-Text, der zeigt, wie die Video-Übersetzungsanwendung funktioniert.
