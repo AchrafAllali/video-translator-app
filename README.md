@@ -799,7 +799,7 @@ Besoin d'aide ? Plusieurs options s'offrent à vous :
 - 🐛 **Bug Report** : [GitHub Issues](https://github.com/AchrafAllali/video-translator-app/issues)
 - 💬 **Discussions** : [GitHub Discussions](https://github.com/AchrafAllali/video-translator-app/discussions)
 - 📧 **Email** : achrafallali2003@gmail.com
-- 🎥 **Tutoriels vidéo** : [À venir sur YouTube](#)
+- 🎥 **Tutoriels vidéo** : [À venir sur YouTube](https://youtu.be/kXiXeaFJ4NY?si=j2U8mX4jffFs-g2d)
 
 ---
 
