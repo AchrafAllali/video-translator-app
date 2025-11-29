@@ -33,6 +33,13 @@
 
 **Video Translator App** est une solution complète de traduction vidéo automatique utilisant les technologies d'intelligence artificielle les plus avancées. L'application permet de transcrire, traduire et doubler des vidéos dans plus de 50 langues avec une qualité professionnelle.
 
+<img width="1146" height="580" alt="image" src="https://github.com/user-attachments/assets/3f0a3bcd-2601-4c26-a1ff-a4251c05f1c8" />
+<img width="1144" height="578" alt="image" src="https://github.com/user-attachments/assets/283d1cc7-b835-4792-94bf-a07e59e95afd" />
+<img width="1144" height="582" alt="image" src="https://github.com/user-attachments/assets/33900fe6-32e2-48b9-8513-b8f40d987554" />
+<img width="1146" height="581" alt="image" src="https://github.com/user-attachments/assets/0d61161c-b6f0-4c36-8936-e9d4b216cf03" />
+<img width="1147" height="577" alt="image" src="https://github.com/user-attachments/assets/f230c424-9abc-46b9-9e8d-90f6e0214be0" />
+
+
 ### Cas d'usage
 
 - 🎓 **Éducation** : Traduire des cours et conférences pour un public international
