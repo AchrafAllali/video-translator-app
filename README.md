@@ -146,24 +146,24 @@ Interface moderne avec statistiques en temps réel
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    FRONTEND (React)                      │
+│                    FRONTEND (React)                     │
 │  ┌──────────┬──────────┬──────────┬──────────────────┐  │
 │  │  Home    │ Translate│  Guide   │    History       │  │
 │  │  Auth    │  Video   │   FAQ    │  Statistics      │  │
 │  └──────────┴──────────┴──────────┴──────────────────┘  │
-│                                                           │
-│              React Router + Context API                   │
+│                                                         │
+│              React Router + Context API                 │
 └─────────────────────────────────────────────────────────┘
                             ↕ HTTP/REST API
 ┌─────────────────────────────────────────────────────────┐
-│                   BACKEND (Flask)                        │
+│                   BACKEND (Flask)                       │
 │  ┌──────────────────────────────────────────────────┐   │
 │  │  API Routes:                                     │   │
 │  │  • /api/upload          • /api/download          │   │
 │  │  • /api/auth/register   • /api/auth/login        │   │
 │  │  • /api/user/history    • /api/user/stats        │   │
 │  └──────────────────────────────────────────────────┘   │
-│                                                           │
+│                                                         │
 │  ┌──────────┬──────────┬──────────┬──────────────────┐  │
 │  │ Whisper  │ FFmpeg   │Edge-TTS  │  SQLite DB       │  │
 │  │   AI     │Processing│Synthesis │  (Users)         │  │
@@ -423,8 +423,8 @@ http://localhost:3000/history
 curl -X POST http://localhost:5000/api/auth/register \
   -H "Content-Type: application/json" \
   -d '{
-    "name": "John Doe",
-    "email": "john@example.com",
+    "name": "achraf allali",
+    "email": "achraf@example.com",
     "password": "motdepasse123"
   }'
 ```
@@ -434,7 +434,7 @@ curl -X POST http://localhost:5000/api/auth/register \
 curl -X POST http://localhost:5000/api/auth/login \
   -H "Content-Type: application/json" \
   -d '{
-    "email": "john@example.com",
+    "email": "achraf@example.com",
     "password": "motdepasse123"
   }'
 ```
@@ -446,8 +446,8 @@ Réponse :
   "token": "eyJ0eXAiOiJKV1QiLCJhbGc...",
   "user": {
     "id": 1,
-    "email": "john@example.com",
-    "name": "John Doe"
+    "email": "achraf@example.com",
+    "name": "achraf allali"
   }
 }
 ```
@@ -744,7 +744,7 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 ```
 MIT License
 
-Copyright (c) 2025 Achraf Allali
+Copyright (c) 2025 Achraf allali
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -763,6 +763,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 ```
 
 ---
@@ -773,11 +774,11 @@ SOFTWARE.
 
 - 🌐 GitHub: [@AchrafAllali](https://github.com/AchrafAllali)
 - 📧 Email: achrafallali2003@gmail.com
-- 💼 LinkedIn: [Votre profil LinkedIn](#)
+- 💼 LinkedIn: [Votre profil LinkedIn](https://www.linkedin.com/in/achraf-allali-9889a0321/)
 
 ---
 
-## 🙏 Remerciements
+## ❤️ Remerciements
 
 Merci à ces projets open-source incroyables :
 
